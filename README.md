@@ -1,6 +1,6 @@
 ## 🐨
 
-Olá, sou Luan Guilherme, mais conhecido como Koala. Sou programador e técnico em telecomunicações, com sólida experiência em monitoramento de redes. Ao longo da minha trajetória, tenho ajudado empresas a automatizar e simplificar tarefas repetitivas, otimizando processos e aumentando a eficiência.
+Olá, sou Luan Guilherme, mais conhecido como Koala. Sou programador e técnico em telecomunicações, com experiência em monitoramento de redes. Ao longo da minha trajetória, tenho ajudado empresas a automatizar e simplificar tarefas repetitivas, otimizando processos e aumentando a eficiência.
 
 Aqui você encontra algumas das minhas principais soluções e projetos voltados para a automação de tarefas e simplificação de rotinas empresariais.
 
