@@ -1,4 +1,7 @@
-## Ola, sou Luan Guilherme(Koala)
+## 🐨
+
+Ola, sou Luan Guilherme(Koala)
+
 
 - Programador pleno em Python 
 
