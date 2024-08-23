@@ -4,10 +4,11 @@ Olá, sou Luan Guilherme, mais conhecido como Koala. Sou programador e técnico 
 
 Aqui você encontra algumas das minhas principais soluções e projetos voltados para a automação de tarefas e simplificação de rotinas empresariais.
 
-- técnico de informática 
-- Programador pleno em Python
-- técnico em telecomunicações
+- Calculadora Penal da cidade America City do GTA RP
 
+- Semi-automatização na criação de contratos de fidelidade para uma empresa de telecomunicações.
+
+- Sistema de cobrança desenvolvido para uma empresa de telecomunicações.
 
 
 <div style="display: inline_block"><br>
