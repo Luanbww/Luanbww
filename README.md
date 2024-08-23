@@ -6,9 +6,12 @@ Aqui você encontra algumas das minhas principais soluções e projetos voltados
 
 - Calculadora Penal da cidade America City do GTA RP
 
+- Sistema de cobrança desenvolvido para uma empresa de telecomunicações.
+  
+
 - Semi-automatização na criação de contratos de fidelidade para uma empresa de telecomunicações.
 
-- Sistema de cobrança desenvolvido para uma empresa de telecomunicações.
+
 
 
 <div style="display: inline_block"><br>
