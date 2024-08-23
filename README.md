@@ -1,6 +1,6 @@
 ## 🐨
 
-Ola, sou Luan Guilherme(Koala)
+Ola, sou Luan Guilherme conhecido pelo como Koala, aqui trago algumas apresentacoes dos meus projetos, no qual ajudo empresas automaizando ou simplificando tarefas chatas.
 
 
 - Programador pleno em Python 
